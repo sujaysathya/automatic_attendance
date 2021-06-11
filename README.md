@@ -31,7 +31,7 @@
 ## How to run on local system
 #### Clone the repository (or download zip from release)
 ```bash
-git clone https://github.com/srina1h/AAMSFrontend
+git clone https://github.com/sujaysathya/automatic_attendance
 ```
 #### move to folder and Install dependencies 
 ```bash
