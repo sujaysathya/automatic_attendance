@@ -88,21 +88,21 @@ sqltest.js
 
 <h2 align = "center"> Some screenshots from the app</h2>
 <h4 align = "center">Home</h4>
-<p align="center"><img src="./AAMS_SS/home.png" width = "800" height = "400"></p>
+<p align="center"><img src="./AAMSFrontend/AAMS_SS/home.png" width = "800" height = "400"></p>
 <h4 align = "center">Student login</h4>
-<p align="center"><img src="./AAMS_SS/login.png" width = "800" height = "400"></p>
+<p align="center"><img src="./AAMSFrontend/AAMS_SS/login.png" width = "800" height = "400"></p>
 <h4 align = "center">Student sign up</h4>
-<p align="center"><img src="./AAMS_SS/sign_up.png" width = "800" height = "400"></p>
+<p align="center"><img src="./AAAMSFrontend/AAMS_SS/sign_up.png" width = "800" height = "400"></p>
 <h4 align = "center">Attenance portal</h4>
-<p align="center"><img src="./AAMS_SS/attendance.png" width = "800" height = "400"></p>
+<p align="center"><img src="./AAMSFrontend/AAMS_SS/attendance.png" width = "800" height = "400"></p>
 <h4 align = "center">Admin home</h4>
-<p align="center"><img src="./AAMS_SS/admin_portal.png" width = "800" height = "400"></p>
+<p align="center"><img src="./AAMSFrontend/AAMS_SS/admin_portal.png" width = "800" height = "400"></p>
 <h4 align = "center">Student data</h4>
-<p align="center"><img src="./AAMS_SS/student.png" width = "800" height = "400"></p>
+<p align="center"><img src="./AAMSFrontend/AAMS_SS/student.png" width = "800" height = "400"></p>
 <h4 align = "center">Teacher data</h4>
-<p align="center"><img src="./AAMS_SS/teacher.png" width = "800" height = "400"></p>
+<p align="center"><img src="./AAMSFrontend/AAMS_SS/teacher.png" width = "800" height = "400"></p>
  <h4 align = "center">Updating next day timetable</h4>
-<p align="center"><img src="./AAMS_SS/update_timetable.png" width = "800" height = "400"></p>
+<p align="center"><img src="./AAMSFrontend/AAMS_SS/update_timetable.png" width = "800" height = "400"></p>
 
 
 
