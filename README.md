@@ -91,8 +91,6 @@ sqltest.js
 <p align="center"><img src="./AAMSFrontend/AAMS_SS/home.png" width = "800" height = "400"></p>
 <h4 align = "center">Student login</h4>
 <p align="center"><img src="./AAMSFrontend/AAMS_SS/login.png" width = "800" height = "400"></p>
-<h4 align = "center">Student sign up</h4>
-<p align="center"><img src="./AAAMSFrontend/AAMS_SS/sign_up.png" width = "800" height = "400"></p>
 <h4 align = "center">Attenance portal</h4>
 <p align="center"><img src="./AAMSFrontend/AAMS_SS/attendance.png" width = "800" height = "400"></p>
 <h4 align = "center">Admin home</h4>
