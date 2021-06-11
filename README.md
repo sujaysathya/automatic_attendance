@@ -25,15 +25,8 @@
 </tr>
 </table>
 
-<h3 align="center"><a href="https://github.com/srina1h/AAMSFrontend/blob/master/Documentation/SRS_document.pdf">Documentation for comprehensive description</a></h3>
-
 ### Done as a part of the the UCS-1617-Mini-project course at SSN College of Engineering
 
-<h3 align='center'>
-<a href="https://github.com/srina1h/AAMSBackend">
-    Please clone the server backend repository from here before proceeding with the instructions
-</a>
-</h3>
 
 ## How to run on local system
 #### Clone the repository (or download zip from release)
